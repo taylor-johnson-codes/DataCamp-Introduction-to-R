@@ -1,4 +1,6 @@
-# A data frame has the variables of a dataset (that can contain different data types) as columns and the observations as rows. 
+# A data frame is a 2-D object that can hold numeric, character or logical (true/false) values.
+# Within a column all elements have the same data type, but different columns can be of different data types.
+# There is one observation per row in a data frame.
 
 # Print out built-in R data frame
 mtcars 
