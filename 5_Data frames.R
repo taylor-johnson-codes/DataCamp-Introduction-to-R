@@ -1,6 +1,7 @@
 # A data frame is a 2-D object that can hold numeric, character or logical (true/false) values.
 # Within a column all elements have the same data type, but different columns can be of different data types.
 # There is one observation per row in a data frame.
+# Use data.frame() to create a data frame.
 
 # Print out built-in R data frame
 mtcars 
