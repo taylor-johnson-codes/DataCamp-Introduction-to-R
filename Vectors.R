@@ -1,5 +1,6 @@
-# Vectors are one-dimension arrays that can hold numeric data, character data, 
-# or logical data. Create a vector with the combine function c(). 
+# Vectors are 1-D arrays that can hold numeric data, character data, or logical data. 
+# Create a vector with the combine function c(). 
+# Vector elements start at position 1 (NOT 0!)
 
 # Define the variable vegas
 vegas <- "Go!"
